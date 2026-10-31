@@ -1,0 +1,15 @@
+name: kapitel_08_medien_logbuch_komplett
+description: Band 2 Kapitel 08 - Medien-Logbuch mit abgeleiteten Providern und Repository.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+
+flutter:
+  uses-material-design: true

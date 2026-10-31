@@ -1,0 +1,21 @@
+name: studio_soundboard_loesung
+description: Musterloesung zu Kapitel 10 bis 12 (Synthwave-Orange & Mix-Modus).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sounds/

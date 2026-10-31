@@ -1,0 +1,18 @@
+name: schild_gestalten
+description: Kapitel 4 der Flutter- & Dart-Werkstatt (Variablen, Text und Farben).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

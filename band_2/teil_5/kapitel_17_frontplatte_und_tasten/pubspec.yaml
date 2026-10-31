@@ -1,0 +1,14 @@
+name: kapitel_17_frontplatte_und_tasten
+description: Band 2 Kapitel 17 - Frontplatte und mechanische Tasten.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

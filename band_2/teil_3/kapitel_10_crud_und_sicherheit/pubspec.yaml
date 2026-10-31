@@ -1,0 +1,18 @@
+name: kapitel_10_crud_und_sicherheit
+description: Band 2 Kapitel 09 - SQLite Fundament fuer Mobile und Desktop.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.4.1
+  sqflite_common_ffi: ^2.3.4+4
+  path_provider: ^2.1.5
+  path: ^1.9.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,16 @@
+name: kapitel_21_eject_und_beschriftung
+description: Band 2 Kapitel 21 - EJECT Klappe und Kassetten-Beschriftung.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.5
+  path: ^1.9.0
+
+flutter:
+  uses-material-design: true

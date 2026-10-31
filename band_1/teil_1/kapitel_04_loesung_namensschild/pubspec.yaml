@@ -1,0 +1,18 @@
+name: loesung_namensschild
+description: Musterloesung zu Kapitel 4 (Zeig was Du kannst).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

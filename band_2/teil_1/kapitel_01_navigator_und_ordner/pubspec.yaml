@@ -1,0 +1,15 @@
+name: kapitel_01_navigator_und_ordner
+description: Band 2 Kapitel 01 - Navigator Push and Pop.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+

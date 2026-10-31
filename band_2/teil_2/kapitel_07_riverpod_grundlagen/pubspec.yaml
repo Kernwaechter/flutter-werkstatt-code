@@ -1,0 +1,15 @@
+name: kapitel_07_riverpod_grundlagen
+description: Band 2 Kapitel 07 - Einstieg in Riverpod.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+
+flutter:
+  uses-material-design: true

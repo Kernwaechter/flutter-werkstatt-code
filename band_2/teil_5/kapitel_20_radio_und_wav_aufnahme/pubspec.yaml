@@ -1,0 +1,16 @@
+name: kapitel_20_radio_und_wav_aufnahme
+description: Band 2 Kapitel 20 - Radio-Streaming und echte WAV-Aufnahme.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.5
+  path: ^1.9.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,20 @@
+name: sneaker_karton_kap07
+description: Kapitel 7 der Flutter- & Dart-Werkstatt (Padding, SizedBox, Expanded).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sneaker.png

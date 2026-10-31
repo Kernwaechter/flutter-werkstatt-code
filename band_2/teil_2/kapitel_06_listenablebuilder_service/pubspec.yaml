@@ -1,0 +1,14 @@
+name: kapitel_06_listenablebuilder_service
+description: Band 2 Kapitel 06 - ListenableBuilder und saubere Services.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

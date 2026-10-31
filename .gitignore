@@ -1,0 +1,16 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+ephemeral/
+*.iml
+.idea/
+.vscode/
+
+# Plattformordner legt jeder Leser selbst mit "flutter create ." an
+# System
+.DS_Store
+*.swp
+*~

@@ -1,0 +1,25 @@
+name: neon_blaster_komplett
+description: "Kapitel 16 - Projekt 3: Neon-Blaster Retro-Space-Shooter"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.38.2
+  flame_audio: ^2.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/
+  shaders:
+    - shaders/crt.frag
