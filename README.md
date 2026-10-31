@@ -3,7 +3,8 @@
 Hier liegen alle Beispielprogramme und Musterlösungen zur Buchreihe
 **„Die Flutter- & Dart-Werkstatt“** von Volker Dähn.
 
-Buchwebseite: <https://www.flutter-werkstatt.de>
+Buchwebseite: <https://www.flutter-werkstatt.de>  
+Repository: <https://github.com/Kernwaechter/flutter-werkstatt-code>
 
 | Ordner   | Band                                                        |
 |----------|-------------------------------------------------------------|

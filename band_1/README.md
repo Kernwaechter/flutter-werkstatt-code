@@ -48,6 +48,7 @@ Der Programmcode in diesem Ordner steht unter der **GNU General Public License, 
 * Du darfst den Code frei verwenden, lesen, verändern und weitergeben, privat, in der Schule und kommerziell.
 * Programme, die diesen Code oder Teile davon verwenden, müssen ihrerseits unter der GPL stehen. Wer sie weitergibt, muss auch ihren Quelltext frei zugänglich machen.
 * Copyright © 2026 Volker Dähn.
+* Das gesamte Begleitmaterial zu allen vier Bänden findest du auch auf GitHub: <https://github.com/Kernwaechter/flutter-werkstatt-code>
 
 Diese Lizenz gilt nur für den Programmcode. Der Text des Buches, die Abbildungen und die Cover sind urheberrechtlich geschützt und dürfen nicht weitergegeben werden (siehe Impressum im Buch). Die verwendeten Pakete, etwa Flutter, Flame oder Drift, behalten ihre eigenen Lizenzen.
 
@@ -60,5 +61,6 @@ Der Programmcode in diesem Ordner steht unter der **GNU General Public License, 
 * Du darfst den Code frei verwenden, lesen, verändern und weitergeben, privat, in der Schule und kommerziell.
 * Programme, die diesen Code oder Teile davon verwenden, müssen ihrerseits unter der GPL stehen. Wer sie weitergibt, muss auch ihren Quelltext frei zugänglich machen.
 * Copyright © 2026 Volker Dähn.
+* Das gesamte Begleitmaterial zu allen vier Bänden findest du auch auf GitHub: <https://github.com/Kernwaechter/flutter-werkstatt-code>
 
 Diese Lizenz gilt nur für den Programmcode. Der Text des Buches, die Abbildungen und die Cover sind urheberrechtlich geschützt und dürfen nicht weitergegeben werden (siehe Impressum im Buch). Die verwendeten Pakete, etwa Flutter, Flame oder Drift, behalten ihre eigenen Lizenzen.
